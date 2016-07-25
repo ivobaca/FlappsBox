@@ -1,0 +1,78 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="0.5"
+        android:gravity="top"
+        android:orientation="vertical"
+        android:layout_marginBottom="1dip"   >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="1dip"  >
+
+            <Button
+                android:id="@+id/calendar_month_down"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/list_background_color"
+                android:onClick="CalendarDown"
+                android:padding="0dip"
+                android:text="@string/calendar_month_down"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/calendar_month"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="1dip"
+                android:layout_marginRight="1dip"
+                android:layout_weight="1"
+                android:background="@color/list_background_color"
+                android:gravity="center"
+                android:text="@string/calendar_month"
+                android:textSize="14sp"
+                android:color="@color/font_color" />
+
+            <Button
+                android:id="@+id/calendar_month_up"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/list_background_color"
+                android:onClick="CalendarUp"
+                android:padding="0dip"
+                android:text="@string/calendar_month_up"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <com.exina.android.calendar.CalendarView
+            android:id="@+id/calendar"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/list_background_color"
+            android:adjustViewBounds="true"
+            android:scaleType="centerInside" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/calendar_list"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="0.5"
+        android:background="@color/list_background_color" >
+    </ListView>
+
+</LinearLayout>

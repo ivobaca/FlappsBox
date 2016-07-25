@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_date"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/action_date"/>
+
+    <item
+        android:id="@+id/action_new"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_menu_add"/>
+    
+    <!-- 
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_about"/>
+    <item
+        android:id="@+id/action_reload"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_reload"/>
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_logout"/>
+
+    <item
+        android:id="@+id/action_datatest"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_datatest"/>
+ -->
+</menu>

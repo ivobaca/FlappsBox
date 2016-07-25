@@ -1,0 +1,76 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dip"
+        android:layout_marginTop="16dip"
+        android:text="@string/activity_costsnew_title"
+        android:textColor="@color/font_color"
+        android:textSize="16sp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/list_background_color"
+            android:orientation="vertical" >
+
+            <Spinner
+                android:id="@+id/costs_type"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <EditText
+                android:id="@+id/costs_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:hint="@string/activity_costsnew_date_hint"
+                android:onClick="onClickDate" />
+
+            <EditText
+                android:id="@+id/costs_client"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:hint="@string/activity_costsnew_client_hint"
+                android:onClick="onClickProject" />
+
+            <EditText
+                android:id="@+id/costs_project"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:hint="@string/activity_costsnew_project_hint"
+                android:onClick="onClickProject" />
+
+            <EditText
+                android:id="@+id/costs_amount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/activity_costsnew_amount_hint"
+                android:inputType="numberDecimal" />
+
+            <EditText
+                android:id="@+id/costs_note"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/activity_costsnew_note_hint" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

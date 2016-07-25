@@ -1,0 +1,101 @@
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingBottom="4dp"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:paddingTop="4dp" >
+
+     <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/activity_main_subtitle"
+        android:textSize="14sp"
+        android:textColor="@color/font_color"
+        android:layout_marginBottom="16dip"
+        android:layout_marginTop="16dip"
+         android:gravity="center"
+        />
+        <ListView
+            android:id="@+id/main_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/list_background_color"
+            android:paddingBottom="4dp"
+            android:paddingLeft="4dp"
+            android:paddingRight="4dp"
+            android:paddingTop="4dp" >
+        </ListView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/main_timer"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:background="@drawable/main_textview_background"
+                android:clickable="true"
+                android:onClick="onTimerClick"
+                android:text="00:00:00"
+                android:textColor="@color/font_color"
+                android:textSize="@dimen/timer_textsize"
+                android:gravity="center" />
+
+            <Button
+                android:id="@+id/main_button"
+                android:layout_width="250dp"
+                android:layout_height="80dp"
+                android:onClick="controlTimer"
+                android:paddingLeft="32dp"
+                android:paddingRight="32dp"
+                android:text="@string/main_button_start"
+                android:textSize="@dimen/button_textsize"
+                android:background="@drawable/style_button_about" />
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/main_list_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/list_background_color"
+            android:paddingBottom="4dp"
+            android:paddingLeft="4dp"
+            android:paddingRight="4dp"
+            android:paddingTop="4dp" >
+        </ListView>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/left_drawer"
+        android:layout_width="240dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="#FFFFFF"
+        android:choiceMode="singleChoice"
+        android:divider="@android:color/holo_blue_light"
+        android:dividerHeight="1dp"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp" />
+
+</android.support.v4.widget.DrawerLayout>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/anim/swipe_left.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/anim/swipe_left.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/anim/swipe_left_in.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/anim/swipe_left_in.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/anim/fade_in.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/anim/swipe_right.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/anim/swipe_right.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/anim/swipe_left_out.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/anim/swipe_left_out.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/anim/swipe_right_out.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/anim/swipe_right_out.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/anim/swipe_right_in.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/anim/swipe_right_in.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/anim/fade_out.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/anim/fade_out.xml"
+    }
+]

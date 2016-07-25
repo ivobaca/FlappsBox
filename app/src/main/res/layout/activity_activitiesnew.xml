@@ -1,0 +1,87 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dip"
+        android:layout_marginTop="16dip"
+        android:text="@string/activity_activitiesnew_subtitle"
+        android:textColor="@color/font_color"
+        android:textSize="16sp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/list_background_color"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/activity_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/activity_activitiesnew_name_hint" />
+
+            <!-- <Switch
+                android:id="@+id/activity_time_worked"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dip"
+                android:layout_marginLeft="4dip"
+                android:switchMinWidth="50sp"
+                android:switchPadding="10sp"
+                android:text="@string/activity_activitiesnew_time_worked"
+                android:textOff="@string/activity_activitiesnew_off"
+                android:textOn="@string/activity_activitiesnew_on"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/activity_rate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:hint="@string/activity_activitiesnew_rate" />
+
+            <Spinner
+                android:id="@+id/activity_project"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <Switch
+                android:id="@+id/activity_active"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dip"
+                android:layout_marginLeft="4dip"
+                android:switchMinWidth="50sp"
+                android:switchPadding="10sp"
+                android:text="@string/activity_activitiesnew_active"
+                android:textOff="@string/activity_activitiesnew_off"
+                android:textOn="@string/activity_activitiesnew_on"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/activity_note"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lines="3"
+                android:maxLines="5"
+                android:hint="@string/activity_activitiesnew_note_hint" /> -->
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

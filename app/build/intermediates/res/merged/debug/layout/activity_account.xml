@@ -1,0 +1,161 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tutorial_background"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:id="@+id/login_form"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:gravity="center"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+        android:orientation="vertical" >
+
+        <com.flapps.mobile.android.flapps.utils.ActiveScrollView
+            android:id="@+id/form_scrollview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="0dip"
+                    android:adjustViewBounds="true"
+                    android:padding="0dip"
+                    android:src="@drawable/tutorial_top_4" />
+
+                <EditText
+                    android:id="@+id/account_firstname"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="4dip"
+                    android:background="@color/list_background_color"
+                    android:hint="@string/activity_account_field_firstname"
+                    android:inputType="textEmailAddress"
+                    android:padding="8dip"
+                    android:tag="top_form_element" />
+
+                <EditText
+                    android:id="@+id/account_lastname"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="4dip"
+                    android:background="@color/list_background_color"
+                    android:hint="@string/activity_account_field_lastname"
+                    android:inputType="textEmailAddress"
+                    android:padding="8dip" />
+
+                <EditText
+                    android:id="@+id/account_email"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="4dip"
+                    android:background="@color/list_background_color"
+                    android:hint="@string/activity_account_field_email"
+                    android:inputType="textEmailAddress"
+                    android:padding="8dip" />
+
+                <EditText
+                    android:id="@+id/account_company"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="4dip"
+                    android:background="@color/list_background_color"
+                    android:hint="@string/activity_account_field_company"
+                    android:inputType="textEmailAddress"
+                    android:padding="8dip" />
+
+                <EditText
+                    android:id="@+id/account_phone"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="4dip"
+                    android:background="@color/list_background_color"
+                    android:hint="@string/activity_account_field_phone"
+                    android:inputType="phone"
+                    android:padding="8dip" />
+
+                <Button
+                    android:id="@+id/btn_create"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/style_button_intro_login"
+                    android:onClick="create"
+                    android:paddingBottom="0dip"
+                    android:paddingLeft="16dip"
+                    android:paddingRight="16dip"
+                    android:paddingTop="0dip"
+                    android:shadowColor="#000000"
+                    android:shadowDx="2"
+                    android:shadowDy="2"
+                    android:shadowRadius="2"
+                    android:text="@string/activity_account_btn_create"
+                    android:textColor="@color/intro_btn" />
+            </LinearLayout>
+        </com.flapps.mobile.android.flapps.utils.ActiveScrollView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="64dip"
+        android:background="@drawable/tutorial_bottom_background_xml"
+        android:orientation="horizontal"
+        android:padding="8dip" >
+
+        <Button
+            android:id="@+id/intro_btn_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/style_button_intro_account"
+            android:onClick="skip"
+            android:paddingBottom="0dip"
+            android:paddingLeft="16dip"
+            android:paddingRight="16dip"
+            android:paddingTop="0dip"
+            android:shadowColor="#000000"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:shadowRadius="2"
+            android:text="@string/activity_account_btn_cancel"
+            android:textColor="@color/intro_btn" />
+           />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="0dip"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/intro_btn_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/style_button_intro_login"
+            android:onClick="skip"
+            android:paddingBottom="0dip"
+            android:paddingLeft="16dip"
+            android:paddingRight="16dip"
+            android:paddingTop="0dip"
+            android:shadowColor="#000000"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:shadowRadius="2"
+            android:text="@string/activity_intro_btn_login"
+            android:textColor="@color/intro_btn" />
+            />
+    </LinearLayout>
+
+</LinearLayout>

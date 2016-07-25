@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0aad1d569151272b212d229c50201cb2e034ba3d">
+        <dex dex="/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d27e4cf02ec8f121f5d34a6980133d36b3e43f87/classes.dex" />
+    </item>
+
+</items>

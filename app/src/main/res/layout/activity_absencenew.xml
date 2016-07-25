@@ -1,0 +1,91 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dip"
+        android:layout_marginTop="16dip"
+        android:text="@string/activity_absencenew_title"
+        android:textColor="@color/font_color"
+        android:textSize="16sp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/list_background_color"
+            android:orientation="vertical" >
+
+            <Spinner
+                android:id="@+id/absencenew_type"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                 >
+            <requestFocus />
+            </Spinner>
+
+            <EditText
+                android:id="@+id/absencenew_startdate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:hint="@string/activity_costsnew_date_hint"
+                android:onClick="onDateSelect" />
+
+            <Switch
+                android:id="@+id/absencenew_startdate_on_off"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dip"
+                android:layout_marginLeft="4dip"
+                android:switchMinWidth="50sp"
+                android:switchPadding="10sp"
+                android:text="@string/activity_absencenew_first_day"
+                android:textOff="@string/activity_absencenew_half_day"
+                android:textOn="@string/activity_absencenew_full_day"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/absencenew_enddate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:hint="@string/activity_costsnew_date_hint"
+                android:onClick="onDateSelect" />
+
+            <Switch
+                android:id="@+id/absencenew_enddate_on_off"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dip"
+                android:layout_marginLeft="4dip"
+                android:switchMinWidth="50sp"
+                android:switchPadding="10sp"
+                android:text="@string/activity_absencenew_last_day"
+                android:textOff="@string/activity_absencenew_half_day"
+                android:textOn="@string/activity_absencenew_full_day"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/absencenew_note"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/activity_costsnew_note_hint" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/values-ldpi-v4/values-ldpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/values-ldpi/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 176,
+                        "endColumn": 39,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 49,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/values-ldpi/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 259,
+                        "endColumn": 45,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 46,
+                    "endOffset": 191
+                },
+                "from": {
+                    "file": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/values-ldpi/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 216,
+                        "endColumn": 42,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 196,
+                    "endColumn": 47,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/values-ldpi/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 305,
+                        "endColumn": 43,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endColumn": 41,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/values-ldpi/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 138,
+                        "endColumn": 37,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 286,
+                    "endColumn": 47,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/values-ldpi/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 0,
+                        "startOffset": 94,
+                        "endColumn": 43,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 46,
+                    "endOffset": 376
+                },
+                "from": {
+                    "file": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/values-ldpi/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 51,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            }
+        ]
+    }
+]

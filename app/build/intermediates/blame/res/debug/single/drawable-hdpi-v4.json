@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_ab_back_holo_light.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-hdpi/ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/background.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ab_bottom_solid_dark_holo.9.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-hdpi/ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_ab_next_holo_dark.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-hdpi/ic_ab_next_holo_dark.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_bar.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-hdpi/ic_action_bar.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_save.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-hdpi/ic_menu_save.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_drawer.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-hdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/drawer_shadow.9.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-hdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/calendar_active.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-hdpi/calendar_active.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_ab_back_holo_dark.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-hdpi/ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/calendar_week.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-hdpi/calendar_week.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_add.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-hdpi/ic_menu_add.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ab_stacked_transparent_light_holo.9.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-hdpi/ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/splash.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/calbackground.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-hdpi/calbackground.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_pressed_holo.9.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-hdpi/btn_keyboard_key_dark_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/calendar_done.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-hdpi/calendar_done.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-hdpi/icon.png"
+    }
+]

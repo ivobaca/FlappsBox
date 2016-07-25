@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_intro.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_intro.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/absencerequest_list_item.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/absencerequest_list_item.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_comeinout.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_comeinout.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_login.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_costsnew.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_costsnew.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_list_item_billable.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_list_item_billable.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/costs_list_item.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/costs_list_item.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/main_list_item.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/main_list_item.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_intro2.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_intro2.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_projects.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_projects.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_description.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_description.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_activitiesnew.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_activitiesnew.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_account.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_account.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_clientsnew.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_clientsnew.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_datatest.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_datatest.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_clients.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_clients.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_costs.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_costs.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_intro3.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_intro3.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/attendance_list_item.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/attendance_list_item.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_calendar.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_calendar.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_sync.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_sync.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_absence.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_absence.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/calendar_list_item.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/calendar_list_item.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_projectsnew.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_projectsnew.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/clockinout_list_item.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/clockinout_list_item.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_absencenew.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_absencenew.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/main_list_item_desc.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/main_list_item_desc.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_nfcreceiver.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_nfcreceiver.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/title_bar.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/title_bar.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_timer.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_timer.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_activities.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_activities.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_intro1.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_intro1.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_intro4.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_intro4.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_splash.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_about.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/activity_clockinout.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/activity_clockinout.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/layout/drawer_list_item.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/layout/drawer_list_item.xml"
+    }
+]

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.flapps.mobile.android.flapps"
+    android:versionCode="116"
+    android:versionName="1.16" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.NFC" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/android:Theme.Holo.Light.DarkActionBar" >
+        <activity
+            android:name="com.flapps.mobile.android.flapps.SplashActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.AboutActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.CostsActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.CostsNewActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.AbsenceActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.AbsenceNewActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.CalendarActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.LoginActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.AccountActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.IntroActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.ActivitiesActivity"
+            android:label="@string/activity_activities_title" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.ActivitiesNewActivity"
+            android:label="@string/activity_activitiesnew_title" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.ClientsActivity"
+            android:label="@string/activity_clients_title" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.ClientsNewActivity"
+            android:label="@string/activity_clientsnew_title" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.ProjectsActivity"
+            android:label="@string/activity_projects_title" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.ProjectsNewActivity"
+            android:label="@string/activity_projectsnew_title" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.DescriptionActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateAlwaysVisible|adjustResize" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.TimerActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.SyncActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.test.DataTestActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.ClockInOutActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.ComeInOutActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.flapps.mobile.android.flapps.NFCCardActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.nfc.action.TECH_DISCOVERED" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.nfc.action.TECH_DISCOVERED"
+                android:resource="@xml/nfc_tech_filter" />
+        </activity>
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="f13bcd517bf471e00fa4175a63777c5672eab13e" />
+    </application>
+
+</manifest>

@@ -1,0 +1,79 @@
+<LinearLayout   xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/drawer_layout"
+    tools:context=".MainActivity"
+    android:background="@android:color/transparent"
+    android:orientation="vertical"
+     >
+
+    <ImageView
+        android:id="@+id/login_top"
+        android:layout_width="wrap_content"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:contentDescription="Tutorial"
+        android:src="@drawable/tutorial_top_2"
+        android:layout_gravity="center"
+         />
+
+<!--      <ImageView
+        android:id="@+id/login_top"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="Tutorial"
+        android:src="@drawable/tutorial_swipe_2"
+        android:layout_gravity="center"
+         />
+
+    <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="64dip"
+        android:background="@drawable/tutorial_bottom_background_xml"
+        android:padding="8dip"
+        >
+        <Button
+            android:id="@+id/intro_btn_account_2"
+            android:text="@string/activity_intro_btn_account"
+            android:textColor="@color/intro_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="toAccount"
+            android:paddingLeft="16dip"
+            android:paddingRight="16dip"
+            android:paddingTop="0dip"
+            android:paddingBottom="0dip"
+            android:background="@drawable/style_button_intro_account"
+  			android:shadowColor="#000000"
+    		android:shadowRadius="2"
+    		android:shadowDx="2"
+    		android:shadowDy="2"          />
+            />
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="0dip"
+            android:layout_weight="1"
+            />
+                <Button
+            android:id="@+id/intro_btn_login_2"
+            android:text="@string/activity_intro_btn_login"
+              android:textColor="@color/intro_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="toLogin"
+            android:paddingLeft="16dip"
+            android:paddingRight="16dip"
+            android:paddingTop="0dip"
+            android:paddingBottom="0dip"
+            android:background="@drawable/style_button_intro_login"
+  			android:shadowColor="#000000"
+    		android:shadowRadius="2"
+    		android:shadowDx="2"
+    		android:shadowDy="2"          />
+            />
+        
+    </LinearLayout>
+ -->
+</LinearLayout>

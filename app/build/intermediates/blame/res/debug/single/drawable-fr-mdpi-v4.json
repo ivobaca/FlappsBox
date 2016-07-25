@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-fr-mdpi-v4/tutorial_top_2.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-fr-mdpi/tutorial_top_2.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-fr-mdpi-v4/tutorial_top_5.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-fr-mdpi/tutorial_top_5.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-fr-mdpi-v4/tutorial_swipe_3.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-fr-mdpi/tutorial_swipe_3.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-fr-mdpi-v4/tutorial_top_1.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-fr-mdpi/tutorial_top_1.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-fr-mdpi-v4/tutorial_top_4.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-fr-mdpi/tutorial_top_4.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-fr-mdpi-v4/tutorial_swipe_1.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-fr-mdpi/tutorial_swipe_1.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-fr-mdpi-v4/tutorial_swipe_4.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-fr-mdpi/tutorial_swipe_4.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-fr-mdpi-v4/screen3.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-fr-mdpi/screen3.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-fr-mdpi-v4/tutorial_top_3.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-fr-mdpi/tutorial_top_3.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-fr-mdpi-v4/tutorial_swipe_2.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-fr-mdpi/tutorial_swipe_2.png"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/drawable-fr-mdpi-v4/screen1.png",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/drawable-fr-mdpi/screen1.png"
+    }
+]

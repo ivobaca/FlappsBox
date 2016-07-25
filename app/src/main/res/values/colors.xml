@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="trans">#00000000 </color>
+    <color name="background_color">#888888</color>
+    <color name="list_background_color">#FFFFFF</color>
+    <color name="text_color">#00FFFF</color>
+    <color name="font_color">#FFFFFF</color>
+    <color name="main_list_empty">#ccc</color>
+    <color name="main_list_full">#111</color>
+    <color name="main_timer_border">#000000</color>
+    
+    <color name="intro_btn">#91b4dc</color>
+    
+    <color name="highlight">#f00</color>
+    
+    <color name="expenses_list_date">#000000</color>
+    <color name="expenses_list_amount">#000000</color>
+    <color name="expenses_list_title">#3f7bd5</color>
+    <color name="expenses_list_description">#c0c0c0</color>
+
+    <color name="absence_list_date">#000000</color>
+    <color name="absence_list_title">#3f7bd5</color>
+    <color name="absence_list_description">#c0c0c0</color>
+    
+    <color name="about_btn_color">#324f85</color>
+    
+    <color name="datebox_background_color">#40FFFFFF</color>
+    <color name="attendance_button_color">#00a5ec</color>
+</resources>

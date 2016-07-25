@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/menu/costsnew.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/menu/costsnew.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/menu/absencerequest.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/menu/absencerequest.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/menu/clientsnew.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/menu/clientsnew.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/menu/calendar.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/menu/calendar.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/menu/costs.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/menu/costs.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/menu/projects.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/menu/projects.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/menu/activitiesnew.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/menu/activitiesnew.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/menu/activities.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/menu/activities.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/menu/absencenew.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/menu/absencenew.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/menu/clients.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/menu/clients.xml"
+    },
+    {
+        "merged": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/release/menu/projectsnew.xml",
+        "source": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/menu/projectsnew.xml"
+    }
+]

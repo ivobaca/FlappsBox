@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "/home/ivan/Development/android-workspace/Flapps/app/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 176,
+                        "endColumn": 37,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 47,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 257,
+                        "endColumn": 43,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 46,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 214,
+                        "endColumn": 42,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 45,
+                    "endOffset": 233
+                },
+                "from": {
+                    "file": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 301,
+                        "endColumn": 41,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 238,
+                    "endColumn": 41,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 138,
+                        "endColumn": 37,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 47,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 0,
+                        "startOffset": 94,
+                        "endColumn": 43,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 46,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "/home/ivan/Development/android-workspace/Flapps/app/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 51,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            }
+        ]
+    }
+]
